@@ -6,7 +6,7 @@
 
 </div>
 
-<p align="center">  <a href="[https://your-portfolio.com](https://jinzuuvisuals-portfolio.vercel.app)"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=39FF14" /></a>
+<p align="center">  <a href="https://jinzuuvisuals-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=39FF14" /></a>
 
 ---
 
