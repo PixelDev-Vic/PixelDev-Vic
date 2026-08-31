@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0D3B1A&height=220&section=header&text=Hi%20There!&fontSize=60&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=I'm%20%5BYour%20Name%5D%20—%20Developer%20%26%20Multimedia%20Creative&descAlignY=55&descSize=18&descColor=39FF14" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0D3B1A&height=220&section=header&text=Hi%20There!&fontSize=60&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=I'm%20Vic%20—%20Developer%20%26%20Multimedia%20Creative&descAlignY=55&descSize=18&descColor=39FF14" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Multimedia+%26+Motion+Designer;Adobe+Creative+Suite+Expert;Always+Building%2C+Always+Designing" />
 
