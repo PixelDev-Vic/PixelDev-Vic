@@ -19,9 +19,7 @@
 
 - 💻 I write code across most mainstream languages and modern web frameworks
 - 🎨 I also live in the Adobe Creative Suite — design, video, and motion
-- 🌱 Currently exploring: **[add what you're learning]**
-- ⚡ Fun fact: **[add something personal]**
-- 📫 Reach me: **your@email.com**
+- 🌱 Currently exploring: **White Hat Hacking**
 
 ---
 
@@ -66,25 +64,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=39FF14&labelColor=000000&logo=github&logoColor=39FF14" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=39FF14&labelColor=000000&logo=github&logoColor=39FF14" />
+  <img src="https://img.shields.io/github/followers/PixelDev-Vic?style=for-the-badge&color=39FF14&labelColor=000000&logo=github&logoColor=39FF14" />
+  <img src="https://img.shields.io/github/stars/PixelDev-Vic?style=for-the-badge&color=39FF14&labelColor=000000&logo=github&logoColor=39FF14" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=39FF14&label=PROFILE+VIEWS&labelColor=000000" />
 </p>
 
----
-
-## 📌 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [Project One](https://github.com/YOUR_USERNAME/project-one) | Short description here | React · Node.js |
-| [Project Two](https://github.com/YOUR_USERNAME/project-two) | Short description here | Python · Flask |
-| [Project Three](https://github.com/YOUR_USERNAME/project-three) | Short description here | Adobe AE · JS |
-
----
 
 <div align="center">
 
