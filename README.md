@@ -6,12 +6,7 @@
 
 </div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=39FF14" /></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=39FF14" /></a>
-  <a href="https://instagram.com/your-handle"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=39FF14" /></a>
-</p>
+<p align="center">  <a href="[https://your-portfolio.com](https://jinzuuvisuals-portfolio.vercel.app)"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=39FF14" /></a>
 
 ---
 
@@ -69,7 +64,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=39FF14&label=PROFILE+VIEWS&labelColor=000000" />
+  <img src="https://komarev.com/ghpvc/?username=PixelDev-Vic&style=for-the-badge&color=39FF14&label=PROFILE+VIEWS&labelColor=000000" />
 </p>
 
 
